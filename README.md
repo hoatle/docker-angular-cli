@@ -16,4 +16,4 @@ How to contribute
 LICENSE
 -------
 
-MIT. See the LICENSE file.
+MIT license. See the LICENSE file.
